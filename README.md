@@ -1,6 +1,6 @@
-# CryptoStore application made with ReactJS
+# Getting started with CryptoStore application
 
-full application [Demo](https://reactjs-cryptostore-app.vercel.app).
+Full application [Demo](https://reactjs-cryptostore-app.vercel.app).
 
 ## Run the application locally
 
