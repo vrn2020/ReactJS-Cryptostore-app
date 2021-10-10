@@ -4,7 +4,7 @@ Full application [Demo](https://reactjs-cryptostore-app.vercel.app).
 
 ## Run the application locally
 
-Clone the repo from  [https://github.com/vrn2020/ReactJS-Cryptostore-app.git](https://github.com/vrn2020/ReactJS-Cryptostore-app.git)
+Clone the repo from  [https://github.com/vrn2020/ReactJS-Cryptostore-app.git](https://github.com/vrn2020/ReactJS-Cryptostore-app.git) \
 Once the project is downloaded locally, In the project directory, you can run:
 
 ### `npm start`
@@ -29,3 +29,4 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
