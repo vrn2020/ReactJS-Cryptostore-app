@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# CryptoStore application made with ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+full application [Demo](https://reactjs-cryptostore-app.vercel.app).
 
-## Available Scripts
+## Run the application locally
 
-In the project directory, you can run:
+Clone the repo from  [https://github.com/vrn2020/ReactJS-Cryptostore-app.git](https://github.com/vrn2020/ReactJS-Cryptostore-app.git)
+Once the project is downloaded locally, In the project directory, you can run:
 
 ### `npm start`
 
